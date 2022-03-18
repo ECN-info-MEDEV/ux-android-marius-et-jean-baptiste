@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_accueil">
+
+    <fragment
+        android:id="@+id/nav_accueil"
+        android:name="com.example.feettrack.ui.accueil.AccueilFragment"
+        android:label="@string/menu_accueil"
+        tools:layout="@layout/fragment_accueil" />
+
+    <fragment
+        android:id="@+id/nav_stat_perso"
+        android:name="com.example.feettrack.ui.stat_perso.StatPersoFragment"
+        android:label="@string/menu_stat_perso"
+        tools:layout="@layout/fragment_stat_perso" />
+
+    <fragment
+        android:id="@+id/nav_equipes"
+        android:name="com.example.feettrack.ui.equipes.EquipesFragment"
+        android:label="@string/menu_equipes"
+        tools:layout="@layout/fragment_equipes" />
+    <fragment
+        android:id="@+id/nav_actualites"
+        android:name="com.example.feettrack.ui.actualites.ActualitesFragment"
+        android:label="@string/menu_actualites"
+        tools:layout="@layout/actualites_fragment" />
+    <fragment
+        android:id="@+id/nav_profil"
+        android:name="com.example.feettrack.ui.profil.ProfilFragment"
+        android:label="@string/menu_profil"
+        tools:layout="@layout/profil_fragment" />
+    <fragment
+        android:id="@+id/nav_parametres"
+        android:name="com.example.feettrack.ui.parametres.ParametresFragment"
+        android:label="@string/menu_parametres"
+        tools:layout="@layout/parametres_fragment" />
+    <fragment
+        android:id="@+id/nav_aide"
+        android:name="com.example.feettrack.ui.aide.AideFragment"
+        android:label="@string/menu_aide"
+        tools:layout="@layout/aide_fragment" />
+</navigation>

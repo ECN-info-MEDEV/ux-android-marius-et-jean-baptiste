@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_accueil"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_accueil" />
+        <item
+            android:id="@+id/nav_stat_perso"
+            android:icon="@drawable/ic_football"
+            android:title="@string/menu_stat_perso" />
+        <item
+            android:id="@+id/nav_equipes"
+            android:icon="@drawable/ic_team"
+            android:title="@string/menu_equipes" />
+        <item
+            android:id="@+id/nav_actualites"
+            android:icon="@drawable/ic_news"
+            android:title="@string/menu_actualites" />
+        <item
+            android:id="@+id/nav_profil"
+            android:icon="@drawable/ic_profil"
+            android:title="@string/menu_profil" />
+        <item
+            android:id="@+id/nav_parametres"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/menu_parametres" />
+        <item
+            android:id="@+id/nav_aide"
+            android:icon="@drawable/ic_aide"
+            android:title="@string/menu_aide" />
+        <item
+            android:id="@+id/nav_disconnect"
+            android:icon="@drawable/ic_disconnect"
+            android:title="@string/menu_disconnect" />
+    </group>
+</menu>

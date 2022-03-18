@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Feettrack</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Marius Bertagne Rey--Mauzaize</string>
+    <string name="nav_header_subtitle">27 relations</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_accueil">Accueil</string>
+    <string name="menu_stat_perso">Statistiques personnelles</string>
+    <string name="menu_equipes">Équipes</string>
+    <string name="menu_actualites">Actualités</string>
+    <string name="menu_profil">Profil</string>
+    <string name="menu_parametres">Paramètres</string>
+    <string name="menu_disconnect">Se déconnecter</string>
+    <string name="menu_aide">Aide</string>
+</resources>
