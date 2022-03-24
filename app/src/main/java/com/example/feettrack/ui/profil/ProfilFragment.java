@@ -25,8 +25,8 @@ public class ProfilFragment extends Fragment {
         binding = ProfilFragmentBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textProfil;
-        ProfilViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        //final TextView textView = binding.textProfil;
+        // ProfilViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

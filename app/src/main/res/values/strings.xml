@@ -27,4 +27,6 @@
     <string name="synchroniser">Synchroniser puce FEETTRACK</string>
     <string name="gerer_status">Gérer status</string>
     <string name="network">Network</string>
+    <string name="photo_de_couverture">photo_de_couverture</string>
+    <string name="logo_club">logo_club</string>
 </resources>
