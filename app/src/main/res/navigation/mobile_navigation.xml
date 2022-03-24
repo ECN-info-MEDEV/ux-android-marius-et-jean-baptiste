@@ -42,4 +42,9 @@
         android:name="com.example.feettrack.ui.aide.AideFragment"
         android:label="@string/menu_aide"
         tools:layout="@layout/aide_fragment" />
+    <fragment
+        android:id="@+id/nav_analyse"
+        android:name="com.example.feettrack.ui.analyse.AnalyseFragment"
+        android:label=""
+        tools:layout="@layout/analyse_fragment" />
 </navigation>
