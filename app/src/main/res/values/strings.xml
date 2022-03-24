@@ -15,4 +15,16 @@
     <string name="menu_parametres">Paramètres</string>
     <string name="menu_disconnect">Se déconnecter</string>
     <string name="menu_aide">Aide</string>
+    <string name="generer_analyse">Nouveau ? Un tuto pour vous</string>
+    <string name="faq">Un problème ? F.A.Q</string>
+    <string name="general">Général</string>
+    <string name="parametre">Paramètre</string>
+    <string name="theme">Thème</string>
+    <string name="rappel">Rappel</string>
+    <string name="centre_de_notification">Centre de Notification</string>
+    <string name="profil">Profil</string>
+    <string name="modifier_photo">Modifier Photo</string>
+    <string name="synchroniser">Synchroniser puce FEETTRACK</string>
+    <string name="gerer_status">Gérer status</string>
+    <string name="network">Network</string>
 </resources>

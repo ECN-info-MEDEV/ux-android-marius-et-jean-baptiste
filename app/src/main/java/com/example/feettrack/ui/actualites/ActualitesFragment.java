@@ -25,8 +25,8 @@ public class ActualitesFragment extends Fragment {
         binding = ActualitesFragmentBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textActualites;
-        ActualitesViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        // final TextView textView = binding.textActualites;
+        //  ActualitesViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 
