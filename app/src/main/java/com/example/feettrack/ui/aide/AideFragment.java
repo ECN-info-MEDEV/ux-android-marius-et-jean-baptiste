@@ -10,12 +10,18 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
+// import com.pierfrancescosoffritti.androidyoutubeplayer.core.player.YouTubePlayer;
+// import com.pierfrancescosoffritti.androidyoutubeplayer.core.player.listeners.AbstractYouTubePlayerListener;
+// import com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView;
+
 import com.example.feettrack.databinding.AideFragmentBinding;
 import com.example.feettrack.ui.aide.AideViewModel;
 
 public class AideFragment extends Fragment {
 
     private AideFragmentBinding binding;
+
+    // private YouTubePlayerView youTubePlayerView;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -25,8 +31,8 @@ public class AideFragment extends Fragment {
         binding = AideFragmentBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textAide;
-        AideViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        //final TextView textView = binding.textAide;
+        //AideViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 
