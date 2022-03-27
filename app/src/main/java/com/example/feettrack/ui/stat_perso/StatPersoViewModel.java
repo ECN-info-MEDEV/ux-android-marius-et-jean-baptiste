@@ -4,13 +4,13 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class StatPersoModel extends ViewModel {
+public class StatPersoViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public StatPersoModel() {
+    public StatPersoViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is Statistiques personnelles fragment");
+        mText.setValue("");
     }
 
     public LiveData<String> getText() {

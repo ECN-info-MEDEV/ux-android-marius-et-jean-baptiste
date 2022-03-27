@@ -15,7 +15,11 @@
         android:id="@+id/nav_stat_perso"
         android:name="com.example.feettrack.ui.stat_perso.StatPersoFragment"
         android:label="@string/menu_stat_perso"
-        tools:layout="@layout/fragment_stat_perso" />
+        tools:layout="@layout/fragment_stat_perso" >
+        <action
+            android:id="@+id/nav_stat_perso_to_nav_analyse"
+            app:destination="@id/nav_analyse" />
+    </fragment>
 
     <fragment
         android:id="@+id/nav_equipes"
@@ -42,4 +46,18 @@
         android:name="com.example.feettrack.ui.aide.AideFragment"
         android:label="@string/menu_aide"
         tools:layout="@layout/aide_fragment" />
+    <fragment
+        android:id="@+id/nav_analyse"
+        android:name="com.example.feettrack.ui.analyse.AnalyseFragment"
+        android:label="@string/menu_analyse"
+        tools:layout="@layout/analyse_fragment" >
+        <action
+            android:id="@+id/nav_analyse_to_analysePousseeFragment"
+            app:destination="@id/analysePousseeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/analysePousseeFragment"
+        android:name="com.example.feettrack.ui.analyse_poussee.AnalysePousseeFragment"
+        android:label="@string/menu_analyse_poussee"
+        tools:layout="@layout/analyse_poussee_fragment" />
 </navigation>

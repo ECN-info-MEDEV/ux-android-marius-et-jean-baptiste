@@ -15,4 +15,13 @@
     <string name="menu_parametres">Paramètres</string>
     <string name="menu_disconnect">Se déconnecter</string>
     <string name="menu_aide">Aide</string>
+    <string name="menu_analyse">Analyse</string>
+    <string name="menu_analyse_poussee">Analyse Poussee</string>
+    <string name="nom">Bertagne Rey--Mauzaize</string>
+    <string name="prenom">Marius</string>
+    <string name="age">22 ans</string>
+    <string name="resultats">Résultats</string>
+    <string name="heatmap">Heatmap moyenne cette saison</string>
+    <string name="title_activity_analyse">AnalyseActivity</string>
+
 </resources>
