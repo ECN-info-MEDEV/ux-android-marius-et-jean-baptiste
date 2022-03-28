@@ -30,9 +30,6 @@ public class AideFragment extends Fragment {
 
         binding = AideFragmentBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
-
-        //final TextView textView = binding.textAide;
-        //AideViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

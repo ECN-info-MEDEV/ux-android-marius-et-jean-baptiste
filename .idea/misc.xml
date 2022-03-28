@@ -7,10 +7,6 @@
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable-v21/ic_menu_gallery.xml" value="0.1785" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.1785" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1785" />
-        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1785" />
-        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/actualites_fragment.xml" value="0.1" />
-        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/aide_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable/button_color.xml" value="0.1805" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1785" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/activity_analyse.xml" value="0.1308876811594203" />
@@ -34,6 +30,17 @@
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/profil_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/menu/activity_main_drawer.xml" value="0.4466666666666667" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/menu/main.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/aide_fragment.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/analyse_fragment.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/app_bar_main.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/fragment_accueil.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/fragment_equipes.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/fragment_stat_perso.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/nav_header_main.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/parametres_fragment.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/menu/activity_main_drawer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Jean-Baptiste/Desktop/CentraleNantes/EI2/DEVMO/Feettrack/ux-android-marius-et-jean-baptiste/app/src/main/res/menu/main.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/mariu/OneDrive/Bureau/CentraleNantes/EI2/DEVMO/Projet/ux-android-marius-et-jean-baptiste/app/src/main/res/drawable-anydpi/ic_settings.xml" value="0.173" />
         <entry key="..\:/Users/mariu/OneDrive/Bureau/CentraleNantes/EI2/DEVMO/Projet/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/actualites_fragment.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/mariu/OneDrive/Bureau/CentraleNantes/EI2/DEVMO/Projet/ux-android-marius-et-jean-baptiste/app/src/main/res/layout/aide_fragment.xml" value="0.22" />
