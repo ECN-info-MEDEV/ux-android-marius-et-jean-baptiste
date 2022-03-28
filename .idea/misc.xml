@@ -11,12 +11,22 @@
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/actualites_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/aide_fragment.xml" value="0.1" />
-        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/analyse_fragment.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable/button_color.xml" value="0.1805" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1785" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/activity_analyse.xml" value="0.1308876811594203" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/actualites_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/aide_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/analyse_fragment.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/analyse_poussee_fragment.xml" value="0.22" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/app_bar_main.xml" value="0.1796875" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/content_main.xml" value="0.1796875" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_accueil.xml" value="0.1" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_analyse_poussee.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_first.xml" value="0.1308876811594203" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_gallery.xml" value="0.1796875" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_second.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_slideshow.xml" value="0.1796875" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/fragment_stat_perso.xml" value="0.22" />
         <entry key="..\:/Users/Jean-Baptiste/AndroidStudioProjects/Feettrack/app/src/main/res/layout/nav_header_main.xml" value="0.22" />

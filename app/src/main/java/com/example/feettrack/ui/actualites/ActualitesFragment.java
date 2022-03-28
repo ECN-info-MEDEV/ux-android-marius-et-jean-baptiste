@@ -11,7 +11,6 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.example.feettrack.databinding.ActualitesFragmentBinding;
-import com.example.feettrack.ui.actualites.ActualitesViewModel;
 
 public class ActualitesFragment extends Fragment {
 

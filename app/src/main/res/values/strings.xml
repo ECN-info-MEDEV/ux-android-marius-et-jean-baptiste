@@ -29,10 +29,13 @@
     <string name="network">Network</string>
     <string name="photo_de_couverture">photo_de_couverture</string>
     <string name="logo_club">logo_club</string>
+    <string name="menu_analyse">Analyse</string>
+    <string name="menu_analyse_poussee">Analyse Poussee</string>
     <string name="nom">Bertagne Rey--Mauzaize</string>
     <string name="prenom">Marius</string>
     <string name="age">22 ans</string>
     <string name="resultats">Résultats</string>
     <string name="heatmap">Heatmap moyenne cette saison</string>
+    <string name="title_activity_analyse">AnalyseActivity</string>
 
 </resources>
